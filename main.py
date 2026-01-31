@@ -39,8 +39,8 @@ def get_random_user_agent():
     return random.choice(android_agents + ios_agents)
 
 def main():
-    # 用户输入
-    invite_code = "129543361"
+
+    invite_code = "131117483"
    
     # 生成动态参数
     cur_time = str(int(time.time() * 1000))
