@@ -40,7 +40,7 @@ def get_random_user_agent():
 
 def main():
 
-    invite_code = "129543361"
+    invite_code = "134301504"
    
     # 生成动态参数
     cur_time = str(int(time.time() * 1000))
